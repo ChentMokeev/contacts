@@ -22,7 +22,7 @@ class SoloScreen extends StatelessWidget {
           children: [
             CircleAvatar(
               radius: 57,
-              backgroundImage: NetworkImage(ava),
+              backgroundImage: NetworkImage('assets/images/$ava.png'),
             ),
             Text(
               name,

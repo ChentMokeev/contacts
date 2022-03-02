@@ -22,7 +22,7 @@ class PhoneNumbersTextStyles {
     fontSize: 16,
     fontStyle: FontStyle.normal,
     fontWeight: FontWeight.w700,
-    color: PhoneNumbersColors.textPrimaryColor, //Color(0xff3B81EA),
+    color: PhoneNumbersColors.textPrimaryColor,
   );
 
   static const TextStyle fSize16W700Blue = TextStyle(
@@ -30,7 +30,7 @@ class PhoneNumbersTextStyles {
     fontSize: 16,
     fontStyle: FontStyle.normal,
     fontWeight: FontWeight.w700,
-    color: PhoneNumbersColors.textBlueColor, //Color(0xff3B81EA),
+    color: PhoneNumbersColors.textBlueColor, 
   );
 
   static const TextStyle fSize12W400 = TextStyle(
